@@ -43,3 +43,8 @@
 <TXC00000000018FD4> Old Doom
 <TXC00000000018FDF> Old Ball
 <TXC00000000018FD6> Old Bastion
+
+<tx0C00000000040CE1> Sigma (Mythic)
+<tx0C00000000040CE0> Doomfist (Alien)
+<tx0C000000000455B7> Pharah (Hood)
+<tx0C000000000466AB> Junkrat (le sserafim)
